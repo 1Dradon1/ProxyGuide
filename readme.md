@@ -11,7 +11,8 @@
 
 например этот
 
-![Pasted image 20241008223400](https://github.com/user-attachments/assets/a66e655d-ab1d-4c79-8d68-3d37595dad70)
+![Screenshot 2024-10-08 233614](https://github.com/user-attachments/assets/19cef0ce-10e7-455d-9bbd-1df49d23f834)
+
 
 теперь кликаем по порядку как на скринах
 
