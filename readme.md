@@ -71,9 +71,9 @@ domain:status.discord.com
 ![Pasted image 20241008225948](https://github.com/user-attachments/assets/fc285fe4-7c37-4439-b3ab-48daaacdc128)
 
 
-**После этих действий у нас работает впн в режиме белого списка и пропускает только трафик только тех доменов(сайтов) которые мы указали в предыдущем действии
+После этих действий у нас работает впн в режиме белого списка и пропускает только трафик только тех доменов(сайтов) которые мы указали в предыдущем действии
 
-**Теперь любимое: фикс дискорда
+Теперь любимое: фикс дискорда
 
 ![Pasted image 20241008230353](https://github.com/user-attachments/assets/2d026243-a4fc-4d6d-9204-c2f722bcef33)
 
@@ -87,6 +87,7 @@ domain:status.discord.com
 ![Pasted image 20241008230717](https://github.com/user-attachments/assets/6abba42a-bcdb-4bcc-8dbf-6558b226ce5c)
 
 и меняем bypass на proxy
+
 ![Pasted image 20241008230817](https://github.com/user-attachments/assets/38760fae-6404-4ef9-a273-0bf2bd7e5e65)
 
 после этих действий можно подключаться к дискорду 
