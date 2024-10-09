@@ -27,42 +27,7 @@
 
 ![Pasted image 20241008224038](https://github.com/user-attachments/assets/8b599078-6423-4660-9868-976fae5c7c37)
 
-в то же поле, что и у меня добавляем все это и включаем bybass
-
-```
-domain:youtube.com
-domain:www.youtube.com
-domain:m.youtube.com
-domain:youtube.googleapis.com
-domain:youtubei.googleapis.com
-domain:ytimg.com
-domain:ytstatic.l.google.com
-domain:s.ytimg.com
-domain:i.ytimg.com
-domain:googlevideo.com
-domain:ytimg.l.google.com
-domain:yt3.ggpht.com
-domain:yt3.googleusercontent.com
-domain:googleapis.com
-domain:gstatic.com
-domain:googleusercontent.com
-domain:ggpht.com
-domain:ytimg.l.googleusercontent.com
-domain:clients1.google.com
-domain:clients2.google.com
-domain:clients3.google.com
-domain:clients4.google.com
-domain:clients5.google.com
-domain:clients6.google.com
-domain:discord.com
-domain:cdn.discordapp.com
-domain:discord.gg
-domain:discordapp.com
-domain:gateway.discord.gg
-domain:media.discordapp.net
-domain:status.discord.com
-
-```
+в то же поле, что и у меня добавляем текст из файла default-dns-list и включаем bybass
 
 ![Pasted image 20241008224244](https://github.com/user-attachments/assets/4961ea35-bceb-451b-bf14-1a964be4cf24)
 
