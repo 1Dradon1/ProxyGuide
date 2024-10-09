@@ -18,10 +18,7 @@
 
 ![Pasted image 20241008223624](https://github.com/user-attachments/assets/b49e0a8e-ea67-4feb-b6ae-38cbd5f950d6)
 
-
 ![Pasted image 20241008223745](https://github.com/user-attachments/assets/c76f9fd2-d596-4de7-8f7e-e06f7231d065)
-
-
 
 ![Pasted image 20241008223842](https://github.com/user-attachments/assets/e7d89a3d-f798-41f1-8713-56ad70cec429)
 
