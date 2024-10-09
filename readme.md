@@ -24,7 +24,7 @@
 
 ![Pasted image 20241008224038](https://github.com/user-attachments/assets/8b599078-6423-4660-9868-976fae5c7c37)
 
-в то же поле, что и у меня добавляем текст из файла default-dns-list и включаем bybass
+в то же поле, что и у меня добавляем текст из файла _default-dns-list_ и включаем bybass
 
 ![Pasted image 20241008224244](https://github.com/user-attachments/assets/4961ea35-bceb-451b-bf14-1a964be4cf24)
 
@@ -52,7 +52,7 @@
 ![Pasted image 20241008230717](https://github.com/user-attachments/assets/6abba42a-bcdb-4bcc-8dbf-6558b226ce5c)
 
 ## Новое решение
-Открываем файл из этого репозитория discord-ips-list
+Открываем файл из этого репозитория _discord-ips-list_
 копируем из него все, и встваляем сюда, это там же, куда мы вставляли домены
 теперь, что бы зайти в войс bypass на proxy менять не нужно. достаточно просто включить галочку режим tun на главной страничке в nekobox
 
