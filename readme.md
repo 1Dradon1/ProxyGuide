@@ -67,6 +67,7 @@
 
 ### Старое решение
 меняем bypass на proxy
+
 ![Pasted image 20241008230817](https://github.com/user-attachments/assets/38760fae-6404-4ef9-a273-0bf2bd7e5e65)
 
 после этих действий можно подключаться к дискорду 
